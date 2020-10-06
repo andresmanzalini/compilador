@@ -35,6 +35,7 @@ public class Main {
 	    System.out.println();   
 	    a.mostrarTablaTokens();
 	    a.mostrarTablaSimbolos();
+	    //hola
 	}
 
 }
